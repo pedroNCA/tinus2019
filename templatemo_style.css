@@ -1,5 +1,18 @@
 /* Credit: http://www.templatemo.com */
 
+.bgatas{
+	width: 100%;
+	max-width: 1920px; 
+    height: auto;
+}
+
+.bgbawah{
+	width: 100%;
+	max-width: 1920px; 
+    height: auto;
+	bottom: 0;
+}
+
 body{
 	margin: 0;
 	padding: 0;
@@ -9,10 +22,15 @@ body{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	background-color: #313030;
 	/*background-image:  url(images/templatemo_body.jpg);*/
-	/*background-image:  url(images/bg_baru.jpg);*/
-	background-size: auto;
+	background-image:  url(images/bg.jpg);
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+	/*background-size: auto;
 	background-position: center top;
-	background-repeat: no-repeat
+	background-repeat: no-repeat;*/
 }
 
 a, a:link, a:visited { color: #FFFFFF; font-weight: normal; text-decoration: none }
