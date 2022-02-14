@@ -10,7 +10,7 @@
 	width: 100%;
 	max-width: 1920px; 
     height: auto;
-	top: 100%;
+	mar
 }
 
 body{
@@ -20,7 +20,7 @@ body{
 	font-size: 12px;
 	line-height: 1.6em;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	background-color: #313030;
+	/*background-color: #313030;*/
 	/*background-image:  url(images/templatemo_body.jpg);*/
 	background-image:  url(images/bg.jpg);
 	background-size: cover;
