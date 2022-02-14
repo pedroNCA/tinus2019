@@ -86,10 +86,10 @@ button:hover {
 .bgbawah p {
     position: absolute;
     z-index: 2;
-    top: -7%;
+    top: -2%;
     left: 16%;
     font-family: "Eras Demi ITC", sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: bold;
     color: whitesmoke;
 }
