@@ -10,7 +10,7 @@
 	width: 100%;
 	max-width: 1920px; 
     height: auto;
-	bottom: 0;
+	top: 100%;
 }
 
 body{
